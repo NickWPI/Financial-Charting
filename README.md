@@ -4,15 +4,17 @@
 This is a financial charting demo written in Javascript. This demo showcases my charting library that allows you
 create colorful and interactive financial charts. To illustrate this, this demo app pulls and displays historical cryptocurrency data.
 
-The UI for this demo is built using react. The charts themselves are visualized 
-with the help of D3 and rendered using a combination of Canvas and SVG.
-
 *Note: This repository is a demo app showcasing the functionality of the underlying financial charting library that 
 I have created.*
 
 **This is a work in progress and I am continuing to refine the library and add new features**
 
 <img src="https://raw.githubusercontent.com/NickWPI/Financial-Charting/master/screenshots/Capture2.PNG">
+
+## Language and Technologies Used
+- JavaScript
+- React
+- D3
 
 ## Features
 ### Graphs
