@@ -13,8 +13,8 @@ I have created.*
 
 ## Language and Technologies Used
 - JavaScript
-- React
 - D3
+- React
 
 ## Features
 ### Graphs
